@@ -1,8 +1,8 @@
 {
-  "name": "@editorjs/nested-list",
+  "name": "@cone95/nested-list",
   "version": "1.3.0",
   "description": "Nested list Tool for EditorJS",
-  "main": "dist/nested-list.js",
+  "main": "src/index.js",
   "repository": "https://github.com/editor-js/nested-list.git",
   "author": "CodeX <team@codex.so>",
   "license": "MIT",
