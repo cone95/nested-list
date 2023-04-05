@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "description": "Nested list Tool for EditorJS",
   "main": "src/index.js",
-  "repository": "https://github.com/editor-js/nested-list.git",
+  "repository": "https://github.com/cone95/nested-list.git",
   "author": "CodeX <team@codex.so>",
   "license": "MIT",
   "scripts": {
